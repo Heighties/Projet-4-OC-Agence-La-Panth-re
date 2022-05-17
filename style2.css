@@ -1,0 +1,14 @@
+.toto {
+    position: relative;
+}
+
+.test {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.test-background{
+    background-image: url("img/agence-la-panthere.jpg");
+    background-attachment: fixed;
+}
