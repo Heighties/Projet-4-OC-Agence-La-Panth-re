@@ -12,3 +12,13 @@
     background-image: url("img/agence-la-panthere.jpg");
     background-attachment: fixed;
 }
+
+.text-center-1 h2{
+    margin: auto;
+    width: 60%;
+}
+
+.text-center-3 h2{
+    margin: auto;
+    width: 45%;
+}
