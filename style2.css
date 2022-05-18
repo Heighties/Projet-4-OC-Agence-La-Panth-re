@@ -1,3 +1,7 @@
+p{
+    font-size: 14px;
+}
+
 .toto {
     position: relative;
 }
@@ -9,8 +13,9 @@
 }
 
 .test-background{
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image:  url("img/agence-la-panthere.jpg");
     background-attachment: fixed;
+    
 }
 
 .text-center-1 h2{
@@ -18,7 +23,21 @@
     width: 60%;
 }
 
+.text-center-2 p {
+    margin: auto;
+    font-size: 18px;
+    width: 80%;
+}
+
 .text-center-3 h2{
     margin: auto;
     width: 45%;
 }
+
+/* .texture-paper {
+    filter: brightness(50%);
+}
+
+.h1{
+    z-index: 100;
+} */
