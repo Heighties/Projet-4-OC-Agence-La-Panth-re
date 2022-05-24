@@ -41,3 +41,8 @@ p{
 .h1{
     z-index: 100;
 } */
+
+.b-black{
+    background: rgba(0, 0, 0, 0.5);
+    margin: auto;
+}
