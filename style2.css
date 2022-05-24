@@ -48,7 +48,7 @@ p{
 }
 
 .black{
-    color: #333333;
+    color: black !important;
 }
 
 .social{
