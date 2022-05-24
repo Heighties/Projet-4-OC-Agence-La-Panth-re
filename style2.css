@@ -2,11 +2,11 @@ p{
     font-size: 14px;
 }
 
-.toto {
+.container-position {
     position: relative;
 }
 
-.test {
+.column-position {
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -48,5 +48,5 @@ p{
 }
 
 .black{
-    color: black;
+    color: #333333;
 }
