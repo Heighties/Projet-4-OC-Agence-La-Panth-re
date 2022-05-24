@@ -546,7 +546,7 @@ a[data-lightbox]:hover::before {
   height: 50px;
   margin-left: -25px;
   border-radius: 50%;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 1);
   color: #fff;
   font-weight: 100;
   z-index: 1;
@@ -581,7 +581,7 @@ a[data-lightbox]:hover img {
 .lightbox-caption {
   padding: 20px;
   color: #fff;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 1);
   position: absolute;
   left: 15px;
   right: 15px;
@@ -595,7 +595,7 @@ a[data-lightbox]:hover img {
   top: 20px;
   right: 20px;
   z-index: 20;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 1);
   border: none;
   line-height: 30px;
   padding: 0 9px 5px;
@@ -613,7 +613,7 @@ a[data-lightbox]:hover img {
 .prev-lightbox {
   font-size: 20px;
   color: rgba(255, 255, 255, 0.9);
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 1);
   transition: all 0.2s ease-in-out;
   position: absolute;
   top: 45%;

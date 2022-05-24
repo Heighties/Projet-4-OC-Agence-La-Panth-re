@@ -57,6 +57,10 @@ p{
     justify-content: space-around;
 }
 
+.bloc-bg-texture{
+    padding: 0px;
+}
+
 @media (max-width: 767px) {
     a[data-lightbox]{
         display: flex;
