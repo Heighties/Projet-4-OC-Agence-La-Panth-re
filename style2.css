@@ -34,14 +34,6 @@ p{
     width: 45%;
 }
 
-/* .texture-paper {
-    filter: brightness(50%);
-}
-
-.h1{
-    z-index: 100;
-} */
-
 .b-black{
     background: rgba(0, 0, 0, 0.5);
     margin: auto;
