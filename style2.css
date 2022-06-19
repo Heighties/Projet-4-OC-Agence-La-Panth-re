@@ -1,3 +1,8 @@
+*:focus{ 
+    border: solid 1.7px #66AFE9;
+}
+
+
 p{
     font-size: 14px;
 }
@@ -12,15 +17,18 @@ p{
     gap: 10px;
 }
 
-.test-background{
+.ts-background{
     background-image:  url("img/agence-la-panthere.jpg");
     background-attachment: fixed;
     
 }
 
-.text-center-1 h2{
+
+.text-center-1 p{
     margin: auto;
     width: 60%;
+    font-size: 2rem;
+    color: #6F6F6F;
 }
 
 .text-center-2 p {
