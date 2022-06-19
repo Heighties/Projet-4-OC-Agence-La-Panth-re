@@ -24,10 +24,10 @@ p{
 }
 
 
-.text-center-1 p{
+.text-center-1 h2 {
     margin: auto;
     width: 60%;
-    font-size: 2rem;
+    /* font-size: 2rem; */
     color: #6F6F6F;
 }
 
