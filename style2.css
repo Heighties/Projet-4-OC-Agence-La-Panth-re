@@ -69,6 +69,9 @@ p{
     background-color: white;
 }
 
+.tx-end p{
+    font-size: 1.8rem;
+}
 
 @media (max-width: 767px) {
     a[data-lightbox]{
