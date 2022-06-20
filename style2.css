@@ -2,6 +2,9 @@
     border: solid 1.7px #66AFE9;
 }
 
+section{
+    background-color: white;
+}
 
 p{
     font-size: 14px;
@@ -65,6 +68,7 @@ p{
 .bloc-1-hero {
     background-color: white;
 }
+
 
 @media (max-width: 767px) {
     a[data-lightbox]{
