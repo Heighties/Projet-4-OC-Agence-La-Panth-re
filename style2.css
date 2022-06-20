@@ -28,13 +28,14 @@ p{
     margin: auto;
     width: 60%;
     /* font-size: 2rem; */
-    color: #6F6F6F;
+    color: black;
 }
 
-.text-center-2 p {
+.text-center-2 figcaption, blockquote {
     margin: auto;
-    font-size: 18px;
-    width: 80%;
+    /* font-size: 18px;
+    width: 80%; */
+    color: black;
 }
 
 .text-center-3 h2{
@@ -60,6 +61,7 @@ p{
 .bloc-bg-texture{
     padding: 0px;
 }
+
 
 @media (max-width: 767px) {
     a[data-lightbox]{
