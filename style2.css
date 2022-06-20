@@ -62,6 +62,9 @@ p{
     padding: 0px;
 }
 
+.bloc-1-hero {
+    background-color: white;
+}
 
 @media (max-width: 767px) {
     a[data-lightbox]{
